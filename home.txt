@@ -1,1 +1,1 @@
-This is the Demo for merge conflicts    // comment added by the ketki
+This is the Demo for merge conflicts    // comment added by the ketki // comment 2
